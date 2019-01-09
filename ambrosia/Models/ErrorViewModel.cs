@@ -1,6 +1,4 @@
-using System;
-
-namespace ambrosia.Models
+namespace Ambrosia.Models
 {
     public class ErrorViewModel
     {
