@@ -1,6 +1,6 @@
-﻿using Ambrosia.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Ambrosia.Data.Models;
 
 namespace Ambrosia.Controllers
 {
