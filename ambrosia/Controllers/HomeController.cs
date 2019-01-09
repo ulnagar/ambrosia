@@ -29,7 +29,7 @@ namespace ambrosia.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Cookies()
         {
             return View();
         }
